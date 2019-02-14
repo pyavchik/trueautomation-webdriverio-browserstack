@@ -5,6 +5,9 @@ Clone project
 git clone https://github.com/pyavchik/trueautomation-webdriverio-browserstack.git  
 ```
 ```bash
+cd trueautomation-webdriverio-browserstack
+```
+```bash
 npm install
 ```
 ```bash
